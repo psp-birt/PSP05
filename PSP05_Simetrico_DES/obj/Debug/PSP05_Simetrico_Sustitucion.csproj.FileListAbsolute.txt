@@ -1,0 +1,11 @@
+C:\Users\ulhi\source\repos\PSP\PSP05_Simetrico_Sustitucion\bin\Debug\PSP05_Simetrico_Sustitucion.exe.config
+C:\Users\ulhi\source\repos\PSP\PSP05_Simetrico_Sustitucion\bin\Debug\PSP05_Simetrico_Sustitucion.exe
+C:\Users\ulhi\source\repos\PSP\PSP05_Simetrico_Sustitucion\bin\Debug\PSP05_Simetrico_Sustitucion.pdb
+C:\Users\ulhi\source\repos\PSP\PSP05_Simetrico_Sustitucion\obj\Debug\PSP05_Simetrico_Sustitucion.csproj.AssemblyReference.cache
+C:\Users\ulhi\source\repos\PSP\PSP05_Simetrico_Sustitucion\obj\Debug\PSP05_Simetrico_Sustitucion.csproj.SuggestedBindingRedirects.cache
+C:\Users\ulhi\source\repos\PSP\PSP05_Simetrico_Sustitucion\obj\Debug\PSP05_Simetrico_Sustitucion.Form1.resources
+C:\Users\ulhi\source\repos\PSP\PSP05_Simetrico_Sustitucion\obj\Debug\PSP05_Simetrico_Sustitucion.Properties.Resources.resources
+C:\Users\ulhi\source\repos\PSP\PSP05_Simetrico_Sustitucion\obj\Debug\PSP05_Simetrico_Sustitucion.csproj.GenerateResource.cache
+C:\Users\ulhi\source\repos\PSP\PSP05_Simetrico_Sustitucion\obj\Debug\PSP05_Simetrico_Sustitucion.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP05_Simetrico_Sustitucion\obj\Debug\PSP05_Simetrico_Sustitucion.exe
+C:\Users\ulhi\source\repos\PSP\PSP05_Simetrico_Sustitucion\obj\Debug\PSP05_Simetrico_Sustitucion.pdb
