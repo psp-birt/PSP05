@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSP05_Hash_form", "PSP05_Hash_form.csproj", "{F1512A2D-10C3-479C-B5B4-B6360BD504FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1512A2D-10C3-479C-B5B4-B6360BD504FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1512A2D-10C3-479C-B5B4-B6360BD504FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1512A2D-10C3-479C-B5B4-B6360BD504FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1512A2D-10C3-479C-B5B4-B6360BD504FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C79407-26D7-4323-AB9B-00F889DEF6FE}
+	EndGlobalSection
+EndGlobal

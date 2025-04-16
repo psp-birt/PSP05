@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PSP05_Hash_form/1.0.0": {
+        "runtime": {
+          "PSP05_Hash_form.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PSP05_Hash_form/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

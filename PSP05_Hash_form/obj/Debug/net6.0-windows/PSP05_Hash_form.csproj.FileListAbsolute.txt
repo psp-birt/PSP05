@@ -1,0 +1,16 @@
+C:\Users\ulhi\source\repos\PSP\PSP05_Hash_form\bin\Debug\net6.0-windows\PSP05_Hash_form.exe
+C:\Users\ulhi\source\repos\PSP\PSP05_Hash_form\bin\Debug\net6.0-windows\PSP05_Hash_form.deps.json
+C:\Users\ulhi\source\repos\PSP\PSP05_Hash_form\bin\Debug\net6.0-windows\PSP05_Hash_form.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\PSP05_Hash_form\bin\Debug\net6.0-windows\PSP05_Hash_form.dll
+C:\Users\ulhi\source\repos\PSP\PSP05_Hash_form\bin\Debug\net6.0-windows\ref\PSP05_Hash_form.dll
+C:\Users\ulhi\source\repos\PSP\PSP05_Hash_form\bin\Debug\net6.0-windows\PSP05_Hash_form.pdb
+C:\Users\ulhi\source\repos\PSP\PSP05_Hash_form\obj\Debug\net6.0-windows\PSP05_Hash_form.Form1.resources
+C:\Users\ulhi\source\repos\PSP\PSP05_Hash_form\obj\Debug\net6.0-windows\PSP05_Hash_form.csproj.GenerateResource.cache
+C:\Users\ulhi\source\repos\PSP\PSP05_Hash_form\obj\Debug\net6.0-windows\PSP05_Hash_form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\PSP05_Hash_form\obj\Debug\net6.0-windows\PSP05_Hash_form.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP05_Hash_form\obj\Debug\net6.0-windows\PSP05_Hash_form.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\PSP05_Hash_form\obj\Debug\net6.0-windows\PSP05_Hash_form.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP05_Hash_form\obj\Debug\net6.0-windows\PSP05_Hash_form.dll
+C:\Users\ulhi\source\repos\PSP\PSP05_Hash_form\obj\Debug\net6.0-windows\ref\PSP05_Hash_form.dll
+C:\Users\ulhi\source\repos\PSP\PSP05_Hash_form\obj\Debug\net6.0-windows\PSP05_Hash_form.pdb
+C:\Users\ulhi\source\repos\PSP\PSP05_Hash_form\obj\Debug\net6.0-windows\PSP05_Hash_form.genruntimeconfig.cache
