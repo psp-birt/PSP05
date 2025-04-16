@@ -1,0 +1,10 @@
+C:\Users\ulhi\source\repos\PSP\PSP05_Asimetrico_RSA\obj\Debug\PSP05_Asimetrico_RSA.csproj.SuggestedBindingRedirects.cache
+C:\Users\ulhi\source\repos\PSP\PSP05_Asimetrico_RSA\obj\Debug\PSP05_Asimetrico_RSA.Form1.resources
+C:\Users\ulhi\source\repos\PSP\PSP05_Asimetrico_RSA\obj\Debug\PSP05_Simetrico_Sustitucion.Properties.Resources.resources
+C:\Users\ulhi\source\repos\PSP\PSP05_Asimetrico_RSA\obj\Debug\PSP05_Asimetrico_RSA.csproj.GenerateResource.cache
+C:\Users\ulhi\source\repos\PSP\PSP05_Asimetrico_RSA\obj\Debug\PSP05_Asimetrico_RSA.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP05_Asimetrico_RSA\obj\Debug\PSP05_Simetrico_Sustitucion.exe
+C:\Users\ulhi\source\repos\PSP\PSP05_Asimetrico_RSA\obj\Debug\PSP05_Simetrico_Sustitucion.pdb
+C:\Users\ulhi\source\repos\PSP\PSP05_Asimetrico_RSA\bin\Debug\PSP05_Simetrico_Sustitucion.exe.config
+C:\Users\ulhi\source\repos\PSP\PSP05_Asimetrico_RSA\bin\Debug\PSP05_Simetrico_Sustitucion.exe
+C:\Users\ulhi\source\repos\PSP\PSP05_Asimetrico_RSA\bin\Debug\PSP05_Simetrico_Sustitucion.pdb
